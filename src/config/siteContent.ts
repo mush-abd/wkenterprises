@@ -153,7 +153,7 @@ export const siteConfig: SiteConfig = {
     addressLabel: "Registered Business Address",
     address: "Nafees Plaza, Baroli Road, Aligarh - 202001, Uttar Pradesh (09), India",
     gstin: "09EVOPK9980C2ZU",
-    email: "contact@wkenterprises.in",
+    email: "mehethescienceman@gmail.com",
     phone: "+91 74548 97335",
     businessHours: "Monday – Saturday, 9:30 AM – 6:30 PM IST",
     licenseDetails: "Registered Enterprise under GSTIN: 09EVOPK9980C2ZU • Uttar Pradesh (09) Jurisdiction",

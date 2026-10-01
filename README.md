@@ -35,7 +35,7 @@ Fortis Nutrition operates under the corporate governance of **WK Enterprises**.
 - **Company:** WK Enterprises
 - **GSTIN:** 09EVOPK9980C2ZU
 - **Address:** Nafees Plaza, Baroli Road, Aligarh - 202001, Uttar Pradesh (09), India
-- **Contact:** contact@wkenterprises.in | +91 74548 97335
+- **Contact:** mehethescienceman@gmail.com | +91 74548 97335
 
 ---
 
